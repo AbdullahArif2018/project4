@@ -25,12 +25,12 @@
 
 </table>
 
-
+<<<<<<< HEAD
 <p>Changes have been made through Feature-A branch</p>
-
+=======
 <p>Changes made through Feature-B</p>
 
-
+>>>>>>> Feature-B
 </body>
 
 
